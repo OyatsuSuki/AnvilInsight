@@ -1,0 +1,44 @@
+{
+  "gui.anvil_insight.penalty": "修繕コスト:",
+  "gui.anvil_insight.repair_cost_level": "修繕コストレベル",
+  "gui.anvil_insight.base_penalty": "基本: ",
+  "gui.anvil_insight.result_penalty": "結果: ",
+  "gui.anvil_insight.grindstone_reset": "修繕コストがリセットされました！",
+
+  "gui.anvil_insight.config.title": "Anvil Insight 設定",
+  "gui.anvil_insight.config.category.general": "一般設定",
+
+  "gui.anvil_insight.config.enable_anvil_global": "金床機能を有効化",
+  "gui.anvil_insight.config.enable_anvil_global.tooltip": "マスター設定：金床の拡張機能をすべて有効にします。",
+
+  "gui.anvil_insight.config.enable_grindstone_global": "砥石機能を有効化",
+  "gui.anvil_insight.config.enable_grindstone_global.tooltip": "マスター設定：砥石の拡張機能をすべて有効にします。",
+
+  "gui.anvil_insight.config.tooltip_mode": "ツールチップ表示",
+  "gui.anvil_insight.config.tooltip_mode.off": "オフ",
+  "gui.anvil_insight.config.tooltip_mode.always": "常に表示",
+  "gui.anvil_insight.config.tooltip_mode.advanced_only": "詳細ツールチップのみ (F3+H)",
+
+  "gui.anvil_insight.config.category.anvil": "金床",
+  "gui.anvil_insight.config.show_anvil_bar": "進捗バーを表示",
+  "gui.anvil_insight.config.enable_dragging": "ドラッグを許可",
+  "gui.anvil_insight.config.enable_dragging.tooltip": "オフにするとバーの位置が固定されます。",
+  "gui.anvil_insight.config.show_percentage": "パーセンテージを表示",
+  "gui.anvil_insight.config.show_conflict_warning": "競合警告を表示",
+  "gui.anvil_insight.conflict_title": "エンチャントの競合:",
+  "gui.anvil_insight.conflict_pair": "%s ↔ %s",
+  "gui.anvil_insight.config.reset_bar.desc": "進捗バーの位置がずれた場合は、下のボタンでリセットできます。",
+  "gui.anvil_insight.config.reset_bar_button": "進捗バーの位置をリセット",
+  "gui.anvil_insight.config.reset_icon.desc": "警告アイコンの位置がずれた場合は、下のボタンでリセットできます。",
+  "gui.anvil_insight.config.reset_icon_button": "アイコンの位置をリセット",
+  "gui.anvil_insight.config.show_repair_gain": "耐久値回復量を表示",
+  "gui.anvil_insight.repair_gain": "耐久値回復:",
+
+  "gui.anvil_insight.config.category.grindstone": "砥石",
+  "gui.anvil_insight.config.show_grindstone_hint": "リセットメッセージを表示",
+
+  "gui.anvil_insight.xp_cost": "必要経験値: %s",
+  "gui.anvil_insight.grindstone_label": "獲得: %s",
+  "gui.anvil_insight.config.show_xp_cost": "必要経験値を表示",
+  "gui.anvil_insight.config.show_grindstone_xp": "除去経験値を表示"
+}

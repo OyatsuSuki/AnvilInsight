@@ -1,0 +1,35 @@
+# IDE 配置（IDEA/VSCode/Eclipse）
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+.bin/
+.metadata/
+
+# Gradle 构建/缓存
+build/
+.gradle/
+out/
+dist/
+
+# Fabric 运行实例
+run/
+logs/
+crash-reports/
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+.DS_Store  # Mac 系统隐藏文件
+Thumbs.db  # Windows 系统缩略图文件
+
+# 游戏相关临时文件
+usercache.json
+launcher_profiles.json
+versions/  # 若手动放了 MC 版本文件，忽略

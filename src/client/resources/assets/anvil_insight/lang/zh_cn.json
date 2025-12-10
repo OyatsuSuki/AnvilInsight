@@ -1,0 +1,42 @@
+{
+  "gui.anvil_insight.penalty": "铁砧惩罚:",
+  "gui.anvil_insight.repair_cost_level": "累积惩罚等级",
+  "gui.anvil_insight.base_penalty": "基础惩罚: ",
+  "gui.anvil_insight.result_penalty": "合并后惩罚: ",
+  "gui.anvil_insight.grindstone_reset": "累积惩罚已重置!",
+
+  "gui.anvil_insight.config.title": "Anvil Insight 设置",
+  "gui.anvil_insight.config.category.general": "常规设置",
+
+  "gui.anvil_insight.config.enable_anvil_global": "启用铁砧模块",
+  "gui.anvil_insight.config.enable_anvil_global.tooltip": "总开关：是否在铁砧界面启用所有增强功能。",
+  "gui.anvil_insight.config.enable_grindstone_global": "启用砂轮模块",
+  "gui.anvil_insight.config.enable_grindstone_global.tooltip": "总开关：是否在砂轮界面启用所有增强功能。",
+  "gui.anvil_insight.config.tooltip_mode": "物品提示框显示",
+  "gui.anvil_insight.config.tooltip_mode.off": "关闭",
+  "gui.anvil_insight.config.tooltip_mode.always": "常驻",
+  "gui.anvil_insight.config.tooltip_mode.advanced_only": "仅高级提示框 (F3+H)",
+
+  "gui.anvil_insight.config.category.anvil": "铁砧功能",
+  "gui.anvil_insight.config.show_anvil_bar": "显示铁砧进度条",
+  "gui.anvil_insight.config.enable_dragging": "允许拖拽位置",
+  "gui.anvil_insight.config.enable_dragging.tooltip": "关闭后进度条位置将被锁定，防止误触。",
+  "gui.anvil_insight.config.show_percentage": "显示百分比",
+  "gui.anvil_insight.config.show_conflict_warning": "显示附魔冲突警告",
+  "gui.anvil_insight.conflict_title": "冲突附魔:",
+  "gui.anvil_insight.conflict_pair": "%s ↔ %s",
+  "gui.anvil_insight.config.reset_bar.desc": "如果进度条位置错乱，点击下方按钮重置：",
+  "gui.anvil_insight.config.reset_bar_button": "重置进度条位置",
+  "gui.anvil_insight.config.reset_icon.desc": "如果警告图标位置错乱，点击下方按钮重置：",
+  "gui.anvil_insight.config.reset_icon_button": "重置图标位置",
+  "gui.anvil_insight.config.show_repair_gain": "显示耐久修复增量",
+  "gui.anvil_insight.repair_gain": "耐久度修复:",
+
+  "gui.anvil_insight.config.category.grindstone": "砂轮功能",
+  "gui.anvil_insight.config.show_grindstone_hint": "显示砂轮重置提示",
+
+  "gui.anvil_insight.xp_cost": "需经验值: %s",
+  "gui.anvil_insight.grindstone_label": "祛魔获得: %s",
+  "gui.anvil_insight.config.show_xp_cost": "显示经验值消耗",
+  "gui.anvil_insight.config.show_grindstone_xp": "显示祛魔经验值"
+}

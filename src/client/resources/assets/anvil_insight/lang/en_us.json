@@ -1,0 +1,46 @@
+{
+  "gui.anvil_insight.penalty": "Repair Cost:",
+  "gui.anvil_insight.repair_cost_level": "Repair Cost Level",
+  "gui.anvil_insight.base_penalty": "Base: ",
+  "gui.anvil_insight.result_penalty": "Output: ",
+  "gui.anvil_insight.grindstone_reset": "Repair Cost Reset!",
+
+  "gui.anvil_insight.config.title": "Anvil Insight Settings",
+  "gui.anvil_insight.config.category.general": "General Settings",
+
+  "gui.anvil_insight.config.enable_anvil_global": "Enable Anvil Features",
+  "gui.anvil_insight.config.enable_anvil_global.tooltip": "Master switch: enable all enhanced features for the anvil.",
+
+  "gui.anvil_insight.config.enable_grindstone_global": "Enable Grindstone Features",
+  "gui.anvil_insight.config.enable_grindstone_global.tooltip": "Master switch: enable all enhanced features for the grindstone.",
+
+  "gui.anvil_insight.config.tooltip_mode": "Tooltip Display",
+  "gui.anvil_insight.config.tooltip_mode.off": "Off",
+  "gui.anvil_insight.config.tooltip_mode.always": "Always",
+  "gui.anvil_insight.config.tooltip_mode.advanced_only": "Advanced Tooltips Only (F3+H)",
+
+  "gui.anvil_insight.config.category.anvil": "Anvil",
+  "gui.anvil_insight.config.show_anvil_bar": "Show Progress Bar",
+  "gui.anvil_insight.config.enable_dragging": "Allow Dragging",
+  "gui.anvil_insight.config.enable_dragging.tooltip": "If disabled, the position of the bar will be locked.",
+  "gui.anvil_insight.config.show_percentage": "Show Percentage",
+  "gui.anvil_insight.config.show_conflict_warning": "Show Conflict Warning",
+  "gui.anvil_insight.conflict_title": "Conflicts:",
+  "gui.anvil_insight.conflict_pair": "%s ↔ %s",
+
+  "gui.anvil_insight.config.reset_bar.desc": "If the progress bar position becomes incorrect, click the button below to reset it:",
+  "gui.anvil_insight.config.reset_bar_button": "Reset Progress Bar Position",
+  "gui.anvil_insight.config.reset_icon.desc": "If the warning icon position becomes incorrect, click the button below to reset it:",
+  "gui.anvil_insight.config.reset_icon_button": "Reset Icon Position",
+
+  "gui.anvil_insight.config.show_repair_gain": "Show Durability Repair Gain",
+  "gui.anvil_insight.repair_gain": "Durability Gain:",
+
+  "gui.anvil_insight.config.category.grindstone": "Grindstone",
+  "gui.anvil_insight.config.show_grindstone_hint": "Show Reset Message",
+
+  "gui.anvil_insight.xp_cost": "XP Required: %s",
+  "gui.anvil_insight.grindstone_label": "Gain: %s",
+  "gui.anvil_insight.config.show_xp_cost": "Show XP Requirement",
+  "gui.anvil_insight.config.show_grindstone_xp": "Show Disenchant XP"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "anvil_insight",
+  "version": "${version}",
+  "name": "Anvil Insight",
+  "description": "",
+  "authors": ["Oyatsu"],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/anvil_insight/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "oyatsu.baka.anvilinsight.client.AnvilInsightClientClient"
+    ],
+    "main": [
+      "oyatsu.baka.anvilinsight.AnvilInsightClient"
+    ],
+    "modmenu": [
+      "oyatsu.baka.anvilinsight.client.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "anvil_insight.mixins.json",
+    {
+      "config": "anvil_insight.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
